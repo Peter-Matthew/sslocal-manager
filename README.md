@@ -7,8 +7,6 @@ A backup image to start ss-local
 
 Build via Docker Compose, Source Repo: [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev/).
 
-> There is a solution to deploy local and server to the local machine at the same time, located in the branch [proxy_local](https://github.com/WilliamPeterMatthew/sslocal-manager/tree/proxy_local)
-
 ## Step 1
 Clone this repo.
 ```bash
